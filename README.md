@@ -1,6 +1,6 @@
 # Market Analysis and Prediction
 
-This is my self projest , I have intrest in Share Market and Data  Analystics so I choose this project , I think this project is best beacause of I explore in both feild.
+This is my self projest , I have intrest in Share Market and Data  Analytics so I choose this project , I think this project is best beacause of I explore in both feild.
 I choose india's most valuable companies for analysis and prediction . Companies are
 * **Reliance** : Most valuable companies in Oil & Gas
 * **TCS (Tata Consultancy Service)** : Most valuable in IT service
@@ -31,5 +31,7 @@ Store the data in **Pandas Dataframe.**
 * Scaling the Dataset
 * Divide into train and test data
 * Creating Train dataset
-* Apply LSTM model
+* Train LSTM model
+* Test the Model
+* Plot the prediction value
 
