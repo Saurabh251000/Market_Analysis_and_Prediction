@@ -45,3 +45,4 @@ Store the data in **Pandas Dataframe.**
 > [!NOTE]
 >**Data Scalling :** 
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zeebiz.com%2Fmarkets%2Fstocks%2Flive-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-267552&psig=AOvVaw2s0JR3WxCtMLKIyKjwLKZA&ust=1701989732145000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIixuIb0-4IDFQAAAAAdAAAAABAD)
