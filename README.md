@@ -1,4 +1,4 @@
-# Market Analysis and Prediction
+# Market Analysis and Prediction :closed_book:
 
 This is my self projest , I have intrest in Share Market and Data  Analytics so I choose this project , I think this project is best beacause of I explore in both feild.
 I choose india's most valuable companies for analysis and prediction . Companies are
@@ -11,23 +11,23 @@ I choose india's most valuable companies for analysis and prediction . Companies
 So in this model predicted stocks taking the factor of closing price.
 
 I can divide the whole project in three parts
-* Data Scrapping
-* Market Analysis
-* Market Production
+* Data Scrapping :page_with_curl:
+* Market Analysis :computer:
+* Market Production :chart_with_downwards_trend:
 
 **1 :Data Scraping :** Extract the data from **Yahoo Finance**
-* Use 1 year historical data for Market Analysis Puspose
+* Use 1 year historical data for Market Analysis Purpose
 * Use 5 year historical data for Market Prediction
 
 Store the data in **Pandas Dataframe.**
 
 **2 :Market Analysis**
-* Plotting the Closing Price of each company
-*  Plotting the Volume of Sales
-*  Plot 10 days, 20 days, 30 days Moving Average of Stocks
-*  Plot percentage of **Daily Return** of the shares
-*  Plot Correlation between stocks closing price 
-*  Risk Analysis : Calculate coefficient of variabilty (risk/reward)
+* Plotting the Closing Price of each company :chart_with_upwards_trend:
+*  Plotting the Volume of Sales :chart_with_upwards_trend:
+*  Plot 10 days, 20 days, 30 days Moving Average of Stocks :chart_with_upwards_trend:
+*  Plot percentage of **Daily Return** of the shares :chart:
+*  Plot Correlation between stocks closing price :chart_with_upwards_trend:
+*  Risk Analysis : Calculate coefficient of variabilty (risk/reward) :chart:
 
 **3 :Market Prediction**
 * Get data from yahoo finance
