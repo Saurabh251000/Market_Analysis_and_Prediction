@@ -38,11 +38,26 @@ Store the data in **Pandas Dataframe.**
 * Test the Model
 * Plot the prediction value
 
-> [!NOTE]
+> [!TIP]
 >**LSTM Model :** A time series forcast method  to predict the value. This model used sigmoid activation function for the scaling of data and we minimised the errors using loss function that is mean square error. We used lstm because it is a better version of rnn (recurrent neural network). It assigns some weightage to the important and not important data. It also assigns some weightage to some important older data or insight that might be very useful in the future. This thing cant be done in RNN model. RNN model gives more weightage to the recent data. RNN has Gradient vanishing problem.
 >* LSTM model using keras import library.
 
-> [!NOTE]
->**Data Scalling :** 
+> [!IMPORTANT]
+>**Data Scalling :** In dataset has datapoints far from each other, Scaling is a technique to mske them Closer to each other, SO ML model easily understand and interprete the data.
+* Standard Scaler :  Follow Normal Distribution.
+* MinMax Scaler : Substract minimum value from each value and divide by range of data. It converts range [0-1]
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zeebiz.com%2Fmarkets%2Fstocks%2Flive-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-267552&psig=AOvVaw2s0JR3WxCtMLKIyKjwLKZA&ust=1701989732145000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIixuIb0-4IDFQAAAAAdAAAAABAD)
+<a href="https://www.github.com/Saurabh251000" target="_blank" rel="noreferrer"><img src="https://img.freepik.com/premium-vector/stock-market-graph-forex-trading-chart-business-financial-concepts-abstract-finance-background-investment-economic-trends-business-idea-stock-market-data_208588-149.jpg?w=900" /></a> 
+
+
+### Contact Me
+
+<p align="left">
+    <a href="https://www.github.com/Saurabh251000" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> 
+    <a href="https://www.instagram.com/_restart__art/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/saurabh-kushwaha-064017212/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a>
+    <a href="https://www.instagram.com/saurabh_25100/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" /></a>
+    <a href="https://twitter.com/i/flow/login?redirect_after_login=%2FSaurabh25100" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" /></a>
+</p>
+
+
