@@ -13,7 +13,7 @@ So in this model predicted stocks taking the factor of closing price.
 I can divide the whole project in three parts
 * Data Scrapping :page_with_curl:
 * Market Analysis :computer:
-* Market Priduction :chart_with_downwards_trend:
+* Market Prediction :chart_with_downwards_trend:
 
 **1 :Data Scraping :** Extract the data from **Yahoo Finance**
 * Use 1 year historical data for Market Analysis Purpose
